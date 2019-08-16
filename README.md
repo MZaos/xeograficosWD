@@ -1,2 +1,2 @@
-# xeogr-ficosWD
+# xeograficosWD
 arranxos xeografía galega en Wikidata
